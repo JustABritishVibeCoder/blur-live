@@ -1,0 +1,6 @@
+build/
+.vs/
+*.user
+# Only the current release build is published from dist/
+dist/*
+!dist/BlurLive.exe

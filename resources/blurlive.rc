@@ -1,0 +1,7 @@
+#include <winres.h>
+#define BLURLIVE_FILE_DESCRIPTION "Blur Live - real-time motion blur and filters for games"
+#define BLURLIVE_INTERNAL_NAME "BlurLive"
+#define BLURLIVE_ORIGINAL_FILENAME "BlurLive.exe"
+
+1 ICON "blurlive.ico"
+#include "version.rc.inc"

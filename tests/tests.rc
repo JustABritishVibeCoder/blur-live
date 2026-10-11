@@ -1,0 +1,7 @@
+#include <winres.h>
+#define BLURLIVE_FILE_DESCRIPTION "Blur Live test suite"
+#define BLURLIVE_INTERNAL_NAME "BlurLiveTests"
+#define BLURLIVE_ORIGINAL_FILENAME "BlurLiveTests.exe"
+
+1 ICON "../resources/blurlive.ico"
+#include "../resources/version.rc.inc"
